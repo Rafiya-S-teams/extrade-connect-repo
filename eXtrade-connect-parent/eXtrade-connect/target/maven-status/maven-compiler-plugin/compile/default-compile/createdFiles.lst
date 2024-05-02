@@ -1,0 +1,16 @@
+com/extrade/connect/service/MessageService.class
+com/extrade/connect/beans/AttachmentType.class
+com/extrade/connect/service/TextMessageServiceImpl.class
+com/extrade/connect/beans/notification/MailNotification.class
+com/extrade/connect/beans/InlineAttachment.class
+com/extrade/connect/exception/ExtradeConnectException.class
+com/extrade/connect/beans/notification/Notification.class
+com/extrade/connect/manager/NotificationManager.class
+com/extrade/connect/service/MailMessageServiceImpl.class
+com/extrade/connect/beans/message/MailMessage.class
+com/extrade/connect/beans/message/Message.class
+com/extrade/connect/beans/Attachment.class
+com/extrade/connect/preparator/MessagePreparator.class
+com/extrade/connect/preparator/ThymeleafMessagePreparatorImpl.class
+com/extrade/connect/manager/DefaultNotificationManagerImpl.class
+com/extrade/connect/exception/MailMessageAttachmentsFailedException.class

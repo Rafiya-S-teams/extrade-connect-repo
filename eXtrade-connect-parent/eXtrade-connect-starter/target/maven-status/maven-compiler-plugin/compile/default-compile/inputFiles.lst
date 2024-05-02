@@ -1,0 +1,4 @@
+/home/rafiya/projectspace/eXtrade-connect-parent/eXtrade-connect-starter/src/main/java/com/extrade/autoconfigure/message/TextMessageServiceAutoConfiguration.java
+/home/rafiya/projectspace/eXtrade-connect-parent/eXtrade-connect-starter/src/main/java/com/extrade/autoconfigure/message/ThymeleafMessagePreparatorAutoConfiguration.java
+/home/rafiya/projectspace/eXtrade-connect-parent/eXtrade-connect-starter/src/main/java/com/extrade/autoconfigure/notification/DefaultnotificationManagerAutoConfiguration.java
+/home/rafiya/projectspace/eXtrade-connect-parent/eXtrade-connect-starter/src/main/java/com/extrade/autoconfigure/message/MailMessageServiceAutoConfiguration.java

@@ -1,0 +1,16 @@
+/home/rafiya/projectspace/eXtrade-connect-parent/eXtrade-connect/src/main/java/com/extrade/connect/beans/notification/Notification.java
+/home/rafiya/projectspace/eXtrade-connect-parent/eXtrade-connect/src/main/java/com/extrade/connect/preparator/ThymeleafMessagePreparatorImpl.java
+/home/rafiya/projectspace/eXtrade-connect-parent/eXtrade-connect/src/main/java/com/extrade/connect/beans/AttachmentType.java
+/home/rafiya/projectspace/eXtrade-connect-parent/eXtrade-connect/src/main/java/com/extrade/connect/manager/DefaultNotificationManagerImpl.java
+/home/rafiya/projectspace/eXtrade-connect-parent/eXtrade-connect/src/main/java/com/extrade/connect/service/MessageService.java
+/home/rafiya/projectspace/eXtrade-connect-parent/eXtrade-connect/src/main/java/com/extrade/connect/beans/message/Message.java
+/home/rafiya/projectspace/eXtrade-connect-parent/eXtrade-connect/src/main/java/com/extrade/connect/manager/NotificationManager.java
+/home/rafiya/projectspace/eXtrade-connect-parent/eXtrade-connect/src/main/java/com/extrade/connect/beans/InlineAttachment.java
+/home/rafiya/projectspace/eXtrade-connect-parent/eXtrade-connect/src/main/java/com/extrade/connect/exception/MailMessageAttachmentsFailedException.java
+/home/rafiya/projectspace/eXtrade-connect-parent/eXtrade-connect/src/main/java/com/extrade/connect/service/MailMessageServiceImpl.java
+/home/rafiya/projectspace/eXtrade-connect-parent/eXtrade-connect/src/main/java/com/extrade/connect/preparator/MessagePreparator.java
+/home/rafiya/projectspace/eXtrade-connect-parent/eXtrade-connect/src/main/java/com/extrade/connect/exception/ExtradeConnectException.java
+/home/rafiya/projectspace/eXtrade-connect-parent/eXtrade-connect/src/main/java/com/extrade/connect/beans/notification/MailNotification.java
+/home/rafiya/projectspace/eXtrade-connect-parent/eXtrade-connect/src/main/java/com/extrade/connect/beans/message/MailMessage.java
+/home/rafiya/projectspace/eXtrade-connect-parent/eXtrade-connect/src/main/java/com/extrade/connect/service/TextMessageServiceImpl.java
+/home/rafiya/projectspace/eXtrade-connect-parent/eXtrade-connect/src/main/java/com/extrade/connect/beans/Attachment.java

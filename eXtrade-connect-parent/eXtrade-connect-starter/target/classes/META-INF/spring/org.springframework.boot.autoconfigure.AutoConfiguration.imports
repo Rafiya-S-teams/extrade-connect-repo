@@ -1,0 +1,4 @@
+com.extrade.autoconfigure.notification.DefaultnotificationManagerAutoConfiguration
+com.extrade.autoconfigure.message.MailMessageServiceAutoConfiguration
+com.extrade.autoconfigure.message.ThymeleafMessagePreparatorAutoConfiguration 
+com.extrade.autoconfigure.message.TextMessageServiceAutoConfiguration

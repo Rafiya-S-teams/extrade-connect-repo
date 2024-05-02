@@ -1,0 +1,17 @@
+spring:
+  main:
+    web-application-type: none
+  mail:
+    host: smtp.gmail.com
+    port: 587
+    username: rafiya.cse.rymec@gmail.com
+    password: wecf xpwh ljfo akxp
+    properties:
+      mail.smtp.ssl.trust: smtp.gmail.com
+      mail.smtp.starttls.enable: true
+      mail.smtp.auth: true
+  thymeleaf:
+    prefix: file:///${extrade.template.dir}
+extrade:
+  template:
+    dir: ${user.home}/templates/
